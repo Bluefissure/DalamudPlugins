@@ -3,7 +3,7 @@
     "Author": "Bluefissure",
     "Name": "Double Weaver",
     "InternalName": "DoubleWeaver",
-    "AssemblyVersion": "1.0.6.2",
+    "AssemblyVersion": "1.0.7.0",
     "Description": "Double weaving in high latency network.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
@@ -11,7 +11,7 @@
       "bluefissure",
       "doublewaver"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -22,10 +22,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1696998696",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/DoubleWeaver/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/DoubleWeaver/latest.zip"
+    "LastUpdate": "1720495527",
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/DoubleWeaver/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/DoubleWeaver/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -50,9 +50,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1696998696",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/HousingPos/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/HousingPos/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/HousingPos/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/HousingPos/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/HousingPos/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/HousingPos/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -73,19 +73,19 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1660430493",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/IMEPlugin/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/IMEPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/IMEPlugin/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/IMEPlugin/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/IMEPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/IMEPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
     "Name": "Inviter",
     "InternalName": "Inviter",
-    "AssemblyVersion": "1.1.1.1",
+    "AssemblyVersion": "1.1.2.3",
     "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Bluefissure/Inviter",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -96,10 +96,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1696998696",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/Inviter/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/Inviter/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/Inviter/latest.zip"
+    "LastUpdate": "1728051229",
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/Inviter/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/Inviter/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/Inviter/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -115,9 +115,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1639105128",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/SmartVote/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/SmartVote/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/SmartVote/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/SmartVote/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/SmartVote/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/SmartVote/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -138,8 +138,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1639105128",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/WindowLocker/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/WindowLocker/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/f2cd1c68e2dd6622e6383d3990aa0093dbe185a4/plugins/WindowLocker/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/WindowLocker/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/WindowLocker/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/4dd4b9ce132b19eec18145689d96ede120804c3c/plugins/WindowLocker/latest.zip"
   }
 ]

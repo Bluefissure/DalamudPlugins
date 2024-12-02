@@ -2,7 +2,7 @@
   "Author": "Bluefissure",
   "Name": "Double Weaver",
   "InternalName": "DoubleWeaver",
-  "AssemblyVersion": "1.0.7.0",
+  "AssemblyVersion": "1.0.8.0",
   "Description": "Double weaving in high latency network.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
@@ -10,7 +10,7 @@
     "bluefissure",
     "doublewaver"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
